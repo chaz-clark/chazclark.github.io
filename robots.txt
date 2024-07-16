@@ -1,1 +1,1 @@
-Sitemap: https://byuidatascience.github.io/datascience_portfolio/sitemap.xml
+Sitemap: https://chaz-clark.github.io/chazclark.github.io/sitemap.xml
